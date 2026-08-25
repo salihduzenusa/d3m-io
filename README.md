@@ -14,6 +14,7 @@
   <a href="https://api.d3m.io"><img src="https://img.shields.io/badge/API-api.d3m.io-0ea5e9?style=for-the-badge" alt="API"/></a>
   <img src="https://img.shields.io/badge/Platform-Angular_21_%7C_Fastify_5-111827?style=for-the-badge" alt="Stack"/>
   <img src="https://img.shields.io/badge/License-Proprietary-64748b?style=for-the-badge" alt="License"/>
+  <a href="docs/Salih_Duzen_Resume_2026.pdf"><img src="https://img.shields.io/badge/CV-Download_PDF-ef4444?style=for-the-badge" alt="CV"/></a>
 </p>
 
 <p align="center">
@@ -214,3 +215,10 @@ public_html/
 
 **Proprietary** — © D3M / salihduzenusa.  
 Source and trademarks are not open source. Contact the owner for partnership or licensing.
+
+
+---
+
+## Resume / CV
+
+[Download Salih Duzen Resume (PDF)](docs/Salih_Duzen_Resume_2026.pdf)
