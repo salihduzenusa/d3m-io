@@ -154,6 +154,10 @@ mindmap
     Payments
       Stripe Checkout
       Credits ledger
+    AI-Assisted
+      Cursor
+      Claude
+      GitHub Copilot
     Ops
       PM2
       Apache / .htaccess
@@ -227,6 +231,8 @@ Built end-to-end by **[Salih Duzen](https://github.com/salihduzenusa)** — Seni
 | Resume | [Download PDF](docs/Salih_Duzen_Resume_2026.pdf) · [GitHub](https://github.com/salihduzenusa) · [LinkedIn](https://www.linkedin.com/in/salihduzen) |
 
 **Selected prior work:** Redstar Aviation (Angular 17 + OAuth2/OIDC), Heyteknoloji cotton exchange, Pirimedya survey platform, IMM ArcGIS road digitization & fleet systems, Sevkiyatvar.com (PWA), Smartdecibel.com (IoT).
+**AI-assisted build:** developed with [Cursor](https://cursor.com), Claude (Anthropic), and GitHub Copilot as daily engineering partners.
+
 
 
 ## License
