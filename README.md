@@ -224,7 +224,7 @@ Built end-to-end by **[Salih Duzen](https://github.com/salihduzenusa)** — Seni
 | Focus | Angular (v8–21), Node.js, TypeScript, Fastify, PostgreSQL, REST/microservices |
 | Background | Government (Istanbul Metropolitan Municipality, 16M+ citizens), aviation ops, B2B trading, healthcare, media surveys |
 | Contact | salihduzen@gmail.com · +1 (240) 981-0959 |
-| Resume | [Download PDF](docs/Salih_Duzen_Resume_2026.pdf) · [GitHub profile](https://github.com/salihduzenusa) |
+| Resume | [Download PDF](docs/Salih_Duzen_Resume_2026.pdf) · [GitHub](https://github.com/salihduzenusa) · [LinkedIn](https://www.linkedin.com/in/salihduzen) |
 
 **Selected prior work:** Redstar Aviation (Angular 17 + OAuth2/OIDC), Heyteknoloji cotton exchange, Pirimedya survey platform, IMM ArcGIS road digitization & fleet systems, Sevkiyatvar.com (PWA), Smartdecibel.com (IoT).
 
