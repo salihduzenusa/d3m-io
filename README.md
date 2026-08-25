@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="docs/assets/d3m-logo-light.png" alt="D3M" width="160"/>
+  <img src="docs/assets/d3m-logo.png" alt="D3M" width="180"/>
 </p>
 
 <h1 align="center">D3M.io</h1>
